@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Favorite movies</title>
+</head>
+<body>
+<div class="container">
+<h2>favorite movies of mine</h2>
+<div class="list">
+<a 
+    href="https://en.wikipedia.org/wiki/Geostorm" class="list-item-active">
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/76/Geostorm_official_teaser_poster.jpg" alt="img">Geostrom</a>
+<a 
+    href="https://en.wikipedia.org/wiki/The_Meg" class="list-item">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a5/The_Meg_2018_film_cover.png">The Meg</a>
+<a 
+    href="https://en.wikipedia.org/wiki/300_(film)" class="list-item">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5c/300poster.jpg" >300</a>    
+</div>
+</div>
+</body>
+</html>
