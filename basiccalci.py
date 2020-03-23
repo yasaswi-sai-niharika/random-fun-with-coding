@@ -1,7 +1,7 @@
 from tkinter import *
 
 window = Tk()
-window.title("Calci the Basic Calcualtor")
+window.title("Calci the Basic Calculator")
 window.geometry("312x402+120+120")
 
 
