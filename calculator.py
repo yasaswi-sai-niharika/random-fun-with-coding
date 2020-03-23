@@ -31,7 +31,7 @@ class app(Frame):
 
         EqualsButton = iCalc(self, TOP)
         for iEquals in "=":
-            if iEquals == '=':
+            if iEquals is '=':
                 btniEquals = button(EqualsButton, LEFT, iEquals)
                 btniEquals.bind('<ButtonRelease-1>',lambda e, s=self, storeObj=display: s.calc(storeObj), '+')
             else:
